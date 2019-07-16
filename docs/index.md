@@ -13,9 +13,9 @@ meta:
   og:image: 'https//test.jp/thisog.jpg'
 ---
 
+<articles :pages="this.$site.pages"/>
 
 
-# Hello VuePress
 
 
 
